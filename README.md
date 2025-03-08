@@ -13,4 +13,4 @@ Alterando repositório LOCALMENTE ;)
 Estudo de comandos git para repositório no git hub 🙃💻
 
 - Alterando arquivo no repositório local e enviando para 
-  o repositório remoto!
+  o repositório remoto! 
